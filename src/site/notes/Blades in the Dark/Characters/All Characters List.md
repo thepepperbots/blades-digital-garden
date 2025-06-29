@@ -31,7 +31,7 @@ Amancio - deal broker that worked with the Nameless early on
 Fitz - collector and fence, very creepy
 Vond - face for the Tackle (a Leviathan hunter skimmer/fisher operation)
 Maestro Helleran - musician and conductor, very popular with nobility
-Vollorus - owner of the Veil (a tavern), Tycherosi with a serpent body
+Valorous - owner of the Veil (a tavern), Tycherosi with a serpent body
 Tocker - contact and go-between for Lord Scurlock and the Nameless
 Raffaello - painter, eccentric, patronized by the Coleburns, lived with Vassa until his disappearance
 The Corvid - strange vigilante, connections to the [[Blades in the Dark/Supernatural Entities/The Invigorating Flame\|Invigorating Flame]], works against Scurlock
