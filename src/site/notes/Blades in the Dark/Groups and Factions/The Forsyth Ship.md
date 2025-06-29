@@ -16,9 +16,8 @@ Kellen Morda - Helmsman/ Helm Commander
     A former naval commander in the Mullan resistance force, her ship had been taken off the coast of Doskvol and so she was taken to Ironhook.
     Ended up on the ship after William Sr’s death. 
 
-Atta Cenia - Medical Officer
-    Like Sully, they aren’t a trained doctor, but a former medic who has received additional training by apprenticeship. 
-    Raised in Tyrmoor, a Skovish settlement on Severos that has maintained freedom from the Empire. 
+"XX" - Medical Officer
+    
 
 Eleanor "El" - Chief Engineer
     Native to Doskvol, who Sully put through the academy. Their parents both served, and met, on the Forsyth.
@@ -56,3 +55,8 @@ Landon - crewmember, former "squire" to Rook while at Cabar Sgiath, relationship
 Richard Forsyth
 	Former captain and owner, father to William Sr, grandfather to William Jr
 	Was an exploration ship at the behest of the empire before taking on the [[Blades in the Dark/Supernatural Entities/Golden Stag\|Golden Stag]] as a patron and turning to a merchant ship
+
+Atta Cenia
+    Former medical officer on the ship, now works at the dock house back in Doskvol.
+    Like Sully, they aren’t a trained doctor, but a former medic who has received additional training by apprenticeship. 
+    Raised in Tyrmoor, a Skovish settlement on Severos that has maintained freedom from the Empire. 

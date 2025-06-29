@@ -15,6 +15,7 @@ Ripple - skipper, former Gondolier
 Paul - ruffian, former Muddy Eel member
 Marlane - pugilist
 Bishop - goat carriage driver, works for the Forsyth family (officially)
+Atta Cenia - physicker, former surgeon on the [[Blades in the Dark/Groups and Factions/The Forsyth Ship\|Forsyth ship]], now works at the dock house
 ## Doskvol Allies
 [[Blades in the Dark/Characters/Cormac\|Cormac]] - H.C.'s mentor-father-figure, former royal teacher, half Tycherosi-half Skovlan
 Salia - information broker, works for the [[Ink Rakes\|Ink Rakes]], HC's contact
@@ -31,7 +32,7 @@ Amancio - deal broker that worked with the Nameless early on
 Fitz - collector and fence, very creepy
 Vond - face for the Tackle (a Leviathan hunter skimmer/fisher operation)
 Maestro Helleran - musician and conductor, very popular with nobility
-Valorous - owner of the Veil (a tavern), Tycherosi with a serpent body
+Roland Vollarus - owner of the Veil (a tavern), Tycherosi with a serpent body
 Tocker - contact and go-between for Lord Scurlock and the Nameless
 Raffaello - painter, eccentric, patronized by the Coleburns, lived with Vassa until his disappearance
 The Corvid - strange vigilante, connections to the [[Blades in the Dark/Supernatural Entities/The Invigorating Flame\|Invigorating Flame]], works against Scurlock
