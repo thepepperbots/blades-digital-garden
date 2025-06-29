@@ -37,6 +37,7 @@ Tocker - contact and go-between for Lord Scurlock and the Nameless
 Raffaello - painter, eccentric, patronized by the Coleburns, lived with Vassa until his disappearance
 The Corvid - strange vigilante, connections to the [[Blades in the Dark/Supernatural Entities/The Invigorating Flame\|Invigorating Flame]], works against Scurlock
 Valkos - Iruvian "Pale diver" on the [[The Storm Stallion\|Storm Stallion]], spirit enjoyer
+Elena Belrose - rival to Welker, disgraced sparkwright, currently "employing" Richter and Spook
 ## Blackvale Allies
 Alessandra "Alexi" - H.C.'s former knight and personal bodyguard, now a part of the Resistance
 Patrick "Pat" - Owner and bartender of the Muddy Oar in Blackvale, Resistance member
@@ -116,7 +117,7 @@ Lucella Breakiron - Lord Breakiron's daughter, socialite
 ## Bowmore Family
 Commander Bowmore - Chief Officer of the Bluecoats in the Brightstone Ward, Strangford ally
 Nogg Bowmore - Captain of the Bowmore family's Leviathan hunting fleet
-[[Blades in the Dark/Characters/Cross Bowmore\|Cross Bowmore]] - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Strangford, member of the Buck Herd, gambler
+[[Blades in the Dark/Characters/Atticus Bowmore\|Atticus Bowmore]] - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Strangford, member of the Buck Herd, gambler
 Admiral Bowmore - captain of the [[Blades in the Dark/Groups and Factions/The Covenant Airship\|Covenant]] airship
 ## Drake Family
 [[Blades in the Dark/Characters/Lady Drake\|Lady Drake]] - magister, running for office for the [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol city council]], Madeline's contact
