@@ -25,4 +25,4 @@ A powerful man within a powerful Doskvol noble family. He is shrewd, calculating
 **Raid on the Forsyth**
 	While on the contract mission out to coordinates in the Void Sea set by William Jr (acting as Booker), the Forsyth ship ran afoul of Strangford's fleet as it was hunting their Leviathan prey, the Deep Lord of Woe.
 	An attack by raiders on the Forsyth ship was thwarted thanks to the Nameless's discovery of the plot early on in the trip. The raiders consisted of four humans in stolen Spark Runner gear and a brainwashed Hull. Their orders were to subdue the Captain, neutralize Rook, and take down the ship's lightning barrier. Above all else, their orders were to make sure that Booker's mission succeeded.
-	It's unclear how much of this plan was ordered or known directly by Strangford, as all questioning of the raiders and the saboteurs pointed to the mastermind being Meyer, the Crimson Lady.
+	It's unclear how much of this plan was ordered or known directly by Strangford, as all questioning of the raiders and the saboteurs pointed to the mastermind being [[Blades in the Dark/Characters/Meyer\|Meyer]], the Crimson Queen.
