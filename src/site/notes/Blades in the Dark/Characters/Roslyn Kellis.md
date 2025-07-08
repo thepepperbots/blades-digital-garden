@@ -14,4 +14,4 @@ She was later seen at the premiere of Maestro Helleran's "Ghostly Orchestra", wh
 
 After these several attacks, Scurlock hired the Nameless to capture her and bring her to one of his safehouses.
 
-Roslyn has been forcefully bound in some way to Scurlock with a ritual pact and cannot break it.
+Roslyn has been forcefully bound in some way to Scurlock with a ritual pact and cannot break it. Despite this, she is still actively planning against him and is aware, somewhat, of his plans to "throw Doskvol into chaos".
