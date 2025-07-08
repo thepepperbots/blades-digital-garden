@@ -10,4 +10,4 @@ Admiral Bowmore
 Commander Farros (communications)
 Sergeant Major Kain
 
-The Nameless witnessed its sudden reappearance in the Void Sea, emerging from a constellation whirlpool. Survivors on the ship include only some of the crew and refugees from the [[Blades in the Dark/Places/Cabar Sgiath\|"demon-infested" land]] which they had crash landed.
+The Nameless witnessed its sudden reappearance in the Void Sea, emerging from a constellation whirlpool. Survivors on the ship include only some of the crew along with refugees from the [[Blades in the Dark/Places/Cabar Sgiath\|"demon-infested" land]] which they had crash landed in.

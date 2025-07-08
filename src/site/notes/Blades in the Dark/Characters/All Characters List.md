@@ -103,7 +103,7 @@ Errol Strangford Jr - youngest son (11 years old), rumors of being a bastard chi
 Milos Strangford - brother, "fisherman" by trade, big fancy boat, also member of the [[Blades in the Dark/Groups and Factions/Church of the Ecstasy of the Flesh\|Church]]
 Percival Strangford - cousin, Warrant Officer aboard the ship Inquisition
 #### Strangford's Allies
-Meyer "Crimson" - Strangford's close ally, Master Auger on the [[Blades in the Dark/Groups and Factions/The Crucifix Ship\|Crucifix]]
+[[Blades in the Dark/Characters/Meyer\|Meyer]] "Crimson" - Strangford's close ally, Master Auger on the [[Blades in the Dark/Groups and Factions/The Crucifix Ship\|Crucifix]]
 Vord Welker - premiere Spectrologist, sparkwright, disgraced former professor
 Roland Watt - magistrate in Brightshore, threatened by Wraiths to work with them
 Captain Dalmor - Guard captain, Bluecoat

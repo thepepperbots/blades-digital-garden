@@ -14,4 +14,4 @@ Vassa orchestrated a ritual in the Void sea involving the [[Blades in the Dark/S
 
 He has made a deal with an unknown demon, possibly to escape the consequences of his ritual with the Dream Leviathan.
 
-Recently, Vassa has been working for [[Meyer\|Meyer]], Strangford's Master Auger. It's unknown how willingly he's doing so, but he wishes to use something as leverage to leave her service.
+Recently, Vassa has been working for [[Blades in the Dark/Characters/Meyer\|Meyer]], Strangford's Master Auger. It's unknown how willingly he's doing so, but he wishes to use something as leverage to leave her service.
