@@ -13,3 +13,5 @@ He frequents a bar in the "XX" district called the Veil, which is run by Volloru
 Vassa orchestrated a ritual in the Void sea involving the [[Blades in the Dark/Supernatural Entities/Dream Leviathan\|Dream Leviathan]]. After investigating using the imprints in the ghost field, it was discovered that Rook was made a part of his ritual, and it caused her to either travel to or "experience" a life in another world. (Later this world would be known as [[Blades in the Dark/Places/Cabar Sgiath\|Cabar Sgiath]].)
 
 He has made a deal with an unknown demon, possibly to escape the consequences of his ritual with the Dream Leviathan.
+
+Recently, Vassa has been working for [[Meyer\|Meyer]], Strangford's Master Auger. It's unknown how willingly he's doing so, but he wishes to use something as leverage to leave her service.

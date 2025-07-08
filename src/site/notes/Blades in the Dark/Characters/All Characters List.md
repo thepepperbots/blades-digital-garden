@@ -132,7 +132,7 @@ Orland Dunvil - member of the [[Blades in the Dark/Groups and Factions/Church of
 Preceptor Dunvil - works at the Temple in Charterhall
 Admiral Silas Dunvil - captain of the Paragon, does not commonly appear in Doskvol
 ## Rowan Family
-Lady Rowan - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake
+Lady Linthiya Rowan - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake
 Emiline Rowan - member of the [[Blades in the Dark/Groups and Factions/Church of the Ecstasy of the Flesh\|Church]]
 ## Coleburn Family
 Lorette Coleburn - a sparkwright, Spook's rival, influential member of the Sparkwrights guild
