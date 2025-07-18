@@ -122,8 +122,8 @@ Admiral Bowmore - captain of the [[Blades in the Dark/Groups and Factions/The Co
 ## Drake Family
 [[Blades in the Dark/Characters/Lady Drake\|Lady Drake]] - magister, running for office for the [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol city council]], Madeline's contact
 ## Pendryn Family
-Lord Pendryn - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake
-Lady Pendryn - works with the Archive of Echoes
+Lord Pendryn - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake, Head Archivist at the Archive of Echoes
+Lady Dierdre Pendryn - works with the Archive of Echoes, daughter of Lord Pendryn
 ## Clelland Family
 [[Blades in the Dark/Characters/Joyce Clelland\|Joyce Clelland]] - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Strangford, owns a shipping company
 ## Dunvil Family
