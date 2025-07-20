@@ -3,7 +3,7 @@
 ---
 
 ## Current Councilors
-[[Blades in the Dark/Characters/Atticus Bowmore\|Lord Atticus Bowmore]]
+[[Blades in the Dark/Characters/Cross Bowmore\|Lord Cross Bowmore]]
 [[Blades in the Dark/Characters/Phineas Breakiron\|Lord Phineas Breakiron]]
 [[Blades in the Dark/Characters/Joyce Clelland\|Lady Joyce Clelland]]
 [[Lady Dunvil\|Lady Dunvil]]

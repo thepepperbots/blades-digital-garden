@@ -117,8 +117,9 @@ Lucella Breakiron - Lord Breakiron's daughter, socialite
 ## Bowmore Family
 Commander Bowmore - Chief Officer of the Bluecoats in the Brightstone Ward, Strangford ally
 Nogg Bowmore - Captain of the Bowmore family's Leviathan hunting fleet
-[[Blades in the Dark/Characters/Atticus Bowmore\|Atticus Bowmore]] - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Strangford, member of the Buck Herd, gambler
+[[Blades in the Dark/Characters/Cross Bowmore\|Cross Bowmore]] - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Strangford, member of the Buck Herd, gambler
 Admiral Bowmore - captain of the [[Blades in the Dark/Groups and Factions/The Covenant Airship\|Covenant]] airship
+Atticus Bowmore - elder Bowmore, in charge of managing the Bowmore Bridge
 ## Drake Family
 [[Blades in the Dark/Characters/Lady Drake\|Lady Drake]] - magister, running for office for the [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol city council]], Madeline's contact
 ## Pendryn Family
