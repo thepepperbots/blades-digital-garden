@@ -147,8 +147,8 @@ Amina Morray - Vera's wife (deceased)
 Henry Winters - merchant, youngest Winters son, "father" of [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]] (deceased)
 Renee Winters - "mother" of [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]], wife to Henry (deceased)
 Claire Winters - only Winters daughter, "aunt" to [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]] (deceased)
-Harrison Winters - eldest son, fought in Unity War, left for Dagger Isles, [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]]' "uncle"
-Jonathan Winters - middle son, fought in Unity War, left for Iruvia, [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]]' "uncle"
+Jonathan Winters - eldest son, fought in Unity War, left for Iruvia, [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]]' "uncle"
+Harrison Winters - middle son, fought in Unity War, left for Dagger Isles, [[Blades in the Dark/Characters/Madeline Forsyth\|Madeline Winters]]' "uncle"
 Lord Nathaniel Winters - patriarch of the Winters family, naval officer in the Unity War (deceased)
 Lady Henrietta Winters - matriarch of the Winters family, doctor (deceased)
 # I don't know where to put these:
