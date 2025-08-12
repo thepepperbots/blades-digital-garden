@@ -27,6 +27,7 @@ Zamira - former Void diver, Rook's contact
 Rey - ghost who now lives in our lair, accidentally got trapped in here when we put up wards
 Barker - sparkwright, involved in the party incident, now hired to the [[Blades in the Dark/Groups and Factions/The Forsyth Ship\|Forsyth]]
 Morgan Greene - butcher on the [[Blades in the Dark/Groups and Factions/The Forsyth Ship\|Forsyth ship]]
+Annabeth Bowler - famous former actress, now a playwright and director
 ## Doskvol Contacts
 Amancio - deal broker that worked with the Nameless early on
 Fitz - collector and fence, very creepy
@@ -133,7 +134,7 @@ Orland Dunvil - member of the [[Blades in the Dark/Groups and Factions/Church of
 Preceptor Dunvil - works at the Temple in Charterhall
 Admiral Silas Dunvil - captain of the Paragon, does not commonly appear in Doskvol
 ## Rowan Family
-Lady Linthiya Rowan - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake
+Lady Iona Rowan - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake (shaky), monopoly on alcohol distilleries
 Emiline Rowan - member of the [[Blades in the Dark/Groups and Factions/Church of the Ecstasy of the Flesh\|Church]]
 ## Coleburn Family
 Lorette Coleburn - a sparkwright, Spook's rival, influential member of the Sparkwrights guild
