@@ -43,7 +43,7 @@ Elena Belrose - rival to Welker, disgraced sparkwright, currently "employing" Ri
 Alessandra "Alexi" - H.C.'s former knight and personal bodyguard, now a part of the Resistance
 Patrick "Pat" - Owner and bartender of the Muddy Oar in Blackvale, Resistance member
 Quellyn - Skovish witch, has a coven at the Cauldron of Plenty (tavern) in Blackvale, Rook's contact
-Venn - old Skovish crone, one of the best musicians, had a rivalry with the "[[Blades in the Dark/Characters/Cormac\|polymath in the spire]]"
+Venn - old Skovish crone, musician, rival to the "[[Blades in the Dark/Characters/Cormac\|polymath in the spire]]", ties to [[Blades in the Dark/Groups and Factions/The Circle of the Flame\|Circle of the Flame]]
 ## Blackvale Contacts
 Barnaby Robinson - Doskvol-appointed governor of Blackvale
 Rose - leader of the Spirit Wardens in Blackvale, although their authority is limited
