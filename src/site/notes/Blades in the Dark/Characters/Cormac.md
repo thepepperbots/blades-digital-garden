@@ -13,4 +13,4 @@ Has a rival in Venn, an old Skovish witch, who may or may not have made it to Do
 **From the "tour" at the Mullen Castle in Blackvale:**
 "Professor"/Polymath Colm Malleus, the son of a Tycherosi immigrant woman who married a small radiant-energy farmer.
 
-As a young man, he gained acceptance into the legendary Onyx Citadel, a place where many of the most renowned Leviathan Augers trained. The Tyrannical King Mullen, who started the Unity War, brought him on as council and as a tutor to his daughter, the late and false queen Catherine Mullen. Colm achieved the rank of Ollam under the Citadel's award, meaning he was a very recognized bard of history.
+As a young man, he gained acceptance into the legendary Onyx Citadel, a place where many of the most renowned Leviathan Augurs trained. The Tyrannical King Mullen, who started the Unity War, brought him on as council and as a tutor to his daughter, the late and false queen Catherine Mullen. Colm achieved the rank of Ollam under the Citadel's award, meaning he was a very recognized bard of history.

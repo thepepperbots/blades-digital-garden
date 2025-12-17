@@ -20,7 +20,7 @@ Atta Cenia - physicker, former surgeon on the [[Blades in the Dark/Groups and Fa
 [[Blades in the Dark/Characters/Cormac\|Cormac]] - H.C.'s mentor-father-figure, former royal teacher, half Tycherosi-half Skovlan
 Salia - information broker, works for the [[Ink Rakes\|Ink Rakes]], HC's contact
 Jennah - personal servant to Lady Drake, Madeline's contact
-[[Blades in the Dark/Characters/Vassa Stavrul\|Vassa Stavrul]] - former Forsyth ship master auger, Rook's "mentor"
+[[Blades in the Dark/Characters/Vassa Stavrul\|Vassa Stavrul]] - former Forsyth ship master augur, Rook's "mentor"
 [[Lord Scurlock\|Lord Scurlock]] - Nameless Coven's patron, enigmatic and reclusive nobleman, businessman
 Ulf Ironborn - outspoken Skovlan Resistance member, leader of small Skovish gang in Charhollow
 Zamira - former Void diver, Rook's contact
@@ -104,7 +104,7 @@ Errol Strangford Jr - youngest son (11 years old), rumors of being a bastard chi
 Milos Strangford - brother, "fisherman" by trade, big fancy boat, also member of the [[Blades in the Dark/Groups and Factions/Church of the Ecstasy of the Flesh\|Church]]
 Percival Strangford - cousin, Warrant Officer aboard the ship Inquisition
 #### Strangford's Allies
-[[Blades in the Dark/Characters/Meyer\|Meyer]] "Crimson" - Strangford's close ally, Master Auger on the [[Blades in the Dark/Groups and Factions/The Crucifix Ship\|Crucifix]]
+[[Blades in the Dark/Characters/Meyer\|Meyer]] "Crimson" - Strangford's close ally, Master Augur on the [[Blades in the Dark/Groups and Factions/The Crucifix Ship\|Crucifix]]
 Vord Welker - premiere Spectrologist, sparkwright, disgraced former professor
 Roland Watt - magistrate in Brightshore, threatened by Wraiths to work with them
 Captain Dalmor - Guard captain, Bluecoat
@@ -122,7 +122,7 @@ Nogg Bowmore - Captain of the Bowmore family's Leviathan hunting fleet
 Admiral Bowmore - captain of the [[Blades in the Dark/Groups and Factions/The Covenant Airship\|Covenant]] airship
 Atticus Bowmore - elder Bowmore, in charge of managing the Bowmore Bridge
 ## Drake Family
-[[Blades in the Dark/Characters/Lady Drake\|Lady Drake]] - magister, running for office for the [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol city council]], Madeline's contact
+[[Blades in the Dark/Characters/Lady Drake\|Lady Drake]] - magister, running for [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol city council]], Madeline's contact, [[Blades in the Dark/Groups and Factions/The Circle of the Flame\|The Circle of the Flame]]
 ## Pendryn Family
 Lord Pendryn - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake, Head Archivist at the Archive of Echoes
 Lady Dierdre Pendryn - works with the Archive of Echoes, daughter of Lord Pendryn
@@ -135,7 +135,7 @@ Preceptor Dunvil - works at the Temple in Charterhall
 Admiral Silas Dunvil - captain of the Paragon, does not commonly appear in Doskvol
 ## Rowan Family
 Lady Iona Rowan - [[Blades in the Dark/Groups and Factions/Doskvol Council\|Doskvol councilor]], supports Drake (shaky), monopoly on alcohol distilleries
-Emiline Rowan - member of the [[Blades in the Dark/Groups and Factions/Church of the Ecstasy of the Flesh\|Church]]
+Emiline Rowan - member of the [[Blades in the Dark/Groups and Factions/Church of the Ecstasy of the Flesh\|Church]], mind is lost in the Veil, former friend to Lady Morray and Pendryn
 ## Coleburn Family
 Lorette Coleburn - a sparkwright, Spook's rival, influential member of the Sparkwrights guild
 ## Osbourne Family
