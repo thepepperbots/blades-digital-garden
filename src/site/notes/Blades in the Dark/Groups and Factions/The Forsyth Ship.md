@@ -5,30 +5,30 @@
 Ship owned by the [[Blades in the Dark/Groups and Factions/Forsyth Family\|Forsyth Family]]. 
 # Current Crew
 ## Officers
-[[Blades in the Dark/Characters/Sullivan\|Sullivan]] - Captain, and Surgeon when able to
-    You know him!
+Aurea Bristol - Captain
+    Former butcher boat captain, Iruvian and Severosi descent
+	Handpicked by Sullivan, and Madeline helped forge documents that ties her to the fallen Bristol noble family
 
 [[Blades in the Dark/Characters/Eerie\|Eerie]] (no last name) - Master Auger
     Tycherosi immigrant, arrested for smuggling "devilry" during the Unity War, used to get medicine to Sully, and so when the chance came he arranged for her transfer. 
     She had previously been assigned to a noble's fleet, one of many Augers with little voice. 
 
-Kellen Morda - Helmsman/ Helm Commander
+Kellen Morda - Helmsman/Helm Commander
     A former naval commander in the Mullan resistance force, her ship had been taken off the coast of Doskvol and so she was taken to Ironhook.
     Ended up on the ship after William Sr’s death. 
 
-"XX" - Medical Officer
-    
+[[Blades in the Dark/Characters/Sullivan\|Sullivan]] - Medical Officer
+    You know him!
 
 Eleanor "El" - Chief Engineer
     Native to Doskvol, who Sully put through the academy. Their parents both served, and met, on the Forsyth.
     Assistant - [[Barker\|Barker]]
 
-Corson Elwood - Master Butcher (deceased)
-    She comes from a disgraced noble house; one who initially refused to give their ships to the Unity War effort, and later caught aiding the local resistance. 
+"XX" - Master Butcher 
+    
 
-Holden Cordingley - Quartermaster
-    A second cousin-like relative of William Jr's that he hired while captain, through Abigail's side of the family.
-    He has negotiated a very good deal with Sully for their silent cooperation in the smuggling
+"XX" - Quartermaster
+    
 ## Non-Com Crew
 Morgan Greene - butcher, cutter cohort for the Nameless
 Barker - sparkwright engineer, assistant to El
@@ -60,3 +60,12 @@ Atta Cenia
     Former medical officer on the ship, now works at the dock house back in Doskvol.
     Like Sully, they aren’t a trained doctor, but a former medic who has received additional training by apprenticeship. 
     Raised in Tyrmoor, a Skovish settlement on Severos that has maintained freedom from the Empire. 
+
+Corson Elwood
+	Former Master Butcher, now deceased
+    She comes from a disgraced noble house; one who initially refused to give their ships to the Unity War effort, and later caught aiding the local resistance. 
+
+Holden Cordingley
+    Former Quartermaster, took a bribe from Strangford, was maneuvered to a desk job elsewhere to keep him out of the crew's business
+    A second cousin-like relative of William Jr's that he hired while captain, through Abigail's side of the family.
+    He has negotiated a very good deal with Sully for their silent cooperation in the smuggling
